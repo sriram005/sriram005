@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated and detail oriented Mobile App Developer.<br>Passionate about learning new technologies and applying knowledge to real-world situations.
+Passionate andMotivated Mobile App Developer.<br>Passionate about learning new technologies and applying knowledge to real-world situations.
 
 
 ## 🌐 Socials:
