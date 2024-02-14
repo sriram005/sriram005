@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate and Motivated Mobile App Developer.<br>Passionate about learning new technologies and applying knowledge to real-world situations.
+I'm an Android app developer specializing in Kotlin and Jetpack Compose. With a strong background in mobile development, I excel at creating engaging and user-friendly applications. I'm passionate about leveraging the latest technologies to deliver high-quality, innovative solutions.
 
 
 ## 🌐 Socials:
